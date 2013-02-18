@@ -1,0 +1,30 @@
+{
+"name": "Apycom Menu",
+"title": "jQuery Dropdown Menu for your Website!",
+"description": "jQuery Dropdown Menu with stunning visual effects and animations. * Unlimited levels; * Full cross-browser compatibility; * Fully accessible even when javascript is turned off, as a pure css menu; * Search engines optimized; * Clear unordered list (LI and UL HTML tags) structure of jQuery menu; * Easy to setup and update; * Fantastic animation and transition effects; * Multiple pre-desinded color schemes; * Completely customizable styling with CSS; * Powered by jQuery; * Extremely small - 3kb uncompressed.",
+"keywords": [ "menu", "dropdown",  "submenu", "navigation", "buttons", "javascript", "jquery", "plugin", "css", "java", "lavalamp", "css", "effect"],
+"version": "1.0",
+"author": {
+"name": "Apycom.com",
+"url": "http://apycom.com/menus/1-dim-gray.html"
+},
+"maintainers": [
+{
+"name": "Apycom.com",
+"url": "http://apycom.com/menus/1-dim-gray.html"
+}
+],
+"licenses": [
+{
+"type": "Free for non-commercial use",
+"url": "http://apycom.com/menus/1-dim-gray.html"
+}
+],
+"bugs": "https://github.com/jquerymenu/jquerymenu/issues",
+"homepage": "http://apycom.com/menus/1-dim-gray.html",
+"docs": "http://apycom.com/menus/1-dim-gray.html",
+"download": "http://apycom.com/menus/1-dim-gray.html",
+"dependencies": {
+"jquery": ">=1.5"
+}
+}
