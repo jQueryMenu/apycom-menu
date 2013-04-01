@@ -9,3 +9,4 @@
 *    [jQuery Menu Style 15 - Deep Sky Blue](http://apycom.com/menus/15-deep-sky-blue.html)
 *    [jQuery DropDown Menu Style 11 - Saddle Brown](http://apycom.com/menus/11-saddle-brown.html)
 *    [Animated jQuery Menu Style 08 - White Smoke](http://apycom.com/menus/8-white-smoke.html)
+*    [jQuery Menu Style 01 - Dim Gray](http://apycom.com/menus/1-dim-gray.html)
