@@ -11,3 +11,4 @@
 *    [Animated jQuery Menu Style 08 - White Smoke](http://apycom.com/menus/8-white-smoke.html)
 *    [jQuery Menu Style 01 - Dim Gray](http://apycom.com/menus/1-dim-gray.html)
 *    [jQuery Drop Down Menu Style 02 - Steel Blue](http://apycom.com/menus/2-steel-blue.html)
+*    [jQuery Dropdown Menu Style 3 - Deep Sky Blue](http://apycom.com/menus/3-deep-sky-blue.html)
