@@ -13,3 +13,4 @@
 *    [jQuery Drop Down Menu Style 02 - Steel Blue](http://apycom.com/menus/2-steel-blue.html)
 *    [jQuery Dropdown Menu Style 3 - Deep Sky Blue](http://apycom.com/menus/3-deep-sky-blue.html)
 *    [jQuery Menu Drop Down Style 04- Steel Blue](http://apycom.com/menus/4-steel-blue.html)
+*    [jQuery Horizontal Menu Style 05- Black](http://apycom.com/menus/5-black.html)
