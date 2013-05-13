@@ -15,3 +15,4 @@
 *    [jQuery Menu Drop Down Style 04 - Steel Blue](http://apycom.com/menus/4-steel-blue.html)
 *    [jQuery Horizontal Menu Style 05 - Black](http://apycom.com/menus/5-black.html)
 *    [jQuery CSS Menu Style 06 - Light Sea Green](http://apycom.com/menus/6-light-sea-green.html)
+*    [jQuery Menu Plugin Style 07 - Lime](http://apycom.com/menus/7-lime.html)
