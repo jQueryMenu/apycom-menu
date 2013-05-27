@@ -18,3 +18,4 @@
 *    [jQuery Menu Slide Style 09 - Green Yellow](http://apycom.com/menus/9-green-yellow.html)
 *    [jQuery Navigation Menu Style 10 - Orange](http://apycom.com/menus/10-orange.html)
 *    [jQuery DropDown Menu Style 11 - Saddle Brown](http://apycom.com/menus/11-saddle-brown.html)
+*    [jQuery CSS Drop Down Menu Style 12 - Steel Blue](http://apycom.com/menus/12-steel-blue.html)
