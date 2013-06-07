@@ -19,5 +19,6 @@
 *    [jQuery DropDown Menu Style 11 - Saddle Brown](http://apycom.com/menus/11-saddle-brown.html)
 *    [jQuery CSS Drop Down Menu Style 12 - Steel Blue](http://apycom.com/menus/12-steel-blue.html)
 *    [jQuery Popup Menu Style 13 - Deep Pink](http://apycom.com/menus/13-deep-pink.html)
-*    [jQuery Menu Style 15 - Deep Sky Blue](http://apycom.com/menus/15-deep-sky-blue.html)
 *    [jQuery Popup Menu Style 14 - Fire Brick](http://apycom.com/menus/14-fire-brick.html)
+*    [jQuery Menu Style 15 - Deep Sky Blue](http://apycom.com/menus/15-deep-sky-blue.html)
+*    [jQuery Menu Style 16 - Goldenrod](http://apycom.com/menus/16-goldenrod.html)
