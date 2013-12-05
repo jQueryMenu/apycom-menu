@@ -3,7 +3,7 @@
 "title": "jQuery Dropdown Menu",
 "description": "jQuery Dropdown Menu with stunning visual effects and animations. Unlimited levels; Full cross-browser compatibility; Fully accessible even when javascript is turned off, as a pure css menu; Search engines optimized; Clear unordered list (LI and UL HTML tags) structure of jQuery menu; Easy to setup and update; Fantastic animation and transition effects; Multiple pre-desinded color schemes; Completely customizable styling with CSS; Extremely small - 3kb uncompressed.",
 "keywords": [ "menu", "dropdown",  "ui", "navigation", "buttons", "javascript", "jquery", "plugin", "css", "java", "animation", "css", "effect","html5"],
-"version": "1.3.37",
+"version": "1.3.38",
 "author": {
 "name": "Apycom.com",
 "url": "http://apycom.com/"
