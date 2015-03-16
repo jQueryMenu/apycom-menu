@@ -26,3 +26,5 @@
 *    [jQuery Popup Menu Style 14 - Fire Brick](http://apycom.com/menus/14-fire-brick.html)
 *    [jQuery Menu Style 15 - Deep Sky Blue](http://apycom.com/menus/15-deep-sky-blue.html)
 *    [jQuery Menu Style 16 - Goldenrod](http://apycom.com/menus/16-goldenrod.html)
+*    [jQuery Menu Style 16 - Yellow Green](http://apycom.com/menus/16-yellow-green.html)
+
