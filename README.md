@@ -8,8 +8,8 @@
   
 *    [jQuery CSS Menu Style 01 - Orange Red](http://apycom.com/menus/1-orange-red.html)
 *    [jQuery Menu Style 01 - Dim Gray](http://apycom.com/menus/1-dim-gray.html)
-*    [jQuery Drop Down Menu Style 02 - Steel Blue](http://apycom.com/menus/2-steel-blue.html)
 *    [jQuery CSS Menu Style 02 - White Smoke](http://apycom.com/menus/2-white-smoke.html)
+*    [jQuery Drop Down Menu Style 02 - Steel Blue](http://apycom.com/menus/2-steel-blue.html)
 *    [jQuery Dropdown Menu Style 03 - Deep Sky Blue](http://apycom.com/menus/3-deep-sky-blue.html)
 *    [jQuery CSS Dropdown Menu Style 03 - Orange Red](http://apycom.com/menus/3-orange-red.html)
 *    [jQuery Menu Drop Down Style 04 - Steel Blue](http://apycom.com/menus/4-steel-blue.html)
