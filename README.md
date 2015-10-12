@@ -1,7 +1,7 @@
 <a href="http://apycom.com/">
   <img src="http://apycom.com/jquery-menu.jpg">
 </a>
- 
+  
 # [Animated jQuery DropDown Menu with Pure CSS Fallback](http://apycom.com/)
  
 ## Some Live Demos
